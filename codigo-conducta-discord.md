@@ -1,19 +1,22 @@
-Código de conducta
-Al participar en el grupo de Discord de Biodevas, te comprometes a fomentar una experiencia libre de acoso para todo el mundo, independientemente de la edad, apariencia física, discapacidad visible o invisible, etnicidad, características sexuales, identidad y expresión de género, nivel de experiencia, educación, nivel socio-económico, nacionalidad, apariencia personal, raza, religión, o identidad u orientación sexual.
+## Código de conducta
+
+Al participar en el servidor de Discord de Biodevas, te comprometes a fomentar una experiencia libre de acoso para todo el mundo, independientemente de la edad, apariencia física, discapacidad visible o invisible, etnicidad, características sexuales, identidad y expresión de género, nivel de experiencia, educación, nivel socio-económico, nacionalidad, apariencia personal, raza, religión, o identidad u orientación sexual.
 
 Este Código de Conducta detalla qué comportamientos se esperan, cuáles se rechazan y qué mecanismos hay para ayudar a una persona que esté siendo objeto de comportamientos inadecuados.
 
-¿Por qué un código de conducta?
+### ¿Por qué un código de conducta?
+
 Siguiendo con la ideología zen, explícito mejor que implícito. Explicitar qué se espera del ambiente de participación en Biodevas:
 
  - Favorece que más personas sepan que son bienvenidas.
  - Evita ambigüedades.
  - Construye un clima de confianza.
 
-Alcance
+### Alcance
+
 Este código de conducta es aplicable a todas las personas que participen en espacios del grupo "Biodevas", ya sean en línea o presenciales de ser el caso.
 
-Nuestros estándares
+### Nuestros estándares
 
 Ejemplos de comportamiento que contribuyen a crear un ambiente positivo al grupo:
 
@@ -23,6 +26,7 @@ Ejemplos de comportamiento que contribuyen a crear un ambiente positivo al grupo
  - Aceptar la responsabilidad y disculparse ante quienes se vean afectados por nuestros errores, aprendiendo de la experiencia.
  - Centrarse en lo que sea mejor no sólo para nosotros como individuos, si no para la comunidad en general.
  - Prestar especial atención a las personas que recién llegan a la comunidad. 
+
 Ejemplos de comportamiento inaceptable:
 
  - El uso de lenguaje o imágenes sexualizadas, y aproximaciones o atenciones sexuales de cualquier tipo.
@@ -34,18 +38,19 @@ Ejemplos de comportamiento inaceptable:
 
 Por acoso se entiende comentarios ofensivos relacionados con género, orientación sexual, discapacidad, apariencia física, etnia o religión, pornografía en espacios públicos, intimidación deliberada, acecho, persecución, acoso por fotografías o grabaciones, constante interrupción de charlas u otros eventos, contacto físico inapropiado y atención sexual no deseada.
 
-Cumplimiento
+### Cumplimiento
 
 La administración del grupo es responsable de aclarar y hacer cumplir este código de conducta; en caso de que se determine un comportamiento inadecuado, tomará las acciones que considere oportunas. Éstas van desde exigir el cese del comportamiento, hasta la expulsión de una persona de un evento o del grupo, sin derecho a reclamo.
 
 La administración del grupo tendrá el derecho y la responsabilidad de eliminar, editar o rechazar mensajes, comentarios y otras contribuciones que no se alineen con este código de conducta, y comunicará las razones para sus decisiones de moderación cuando sea apropiado.
 
-Denuncia e información de contacto
+### Denuncia e información de contacto
 
 De manera provisional mientras la comunidad decide sus propios mecanismos, los casos de comportamiento abusivo, acosador o inaceptable de otro modo podrán ser denunciados a las personas con el rol "Administrador".
 
 Todas las personas administradoras del grupo están obligadas a respetar la privacidad y la seguridad de quienes denuncien incidentes.
-Atribución
+
+### Atribución
 
 Este código de conducta extiende el ya existente con aportaciones de otros códigos:
 
